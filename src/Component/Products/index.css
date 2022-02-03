@@ -1,0 +1,64 @@
+.containerAll {
+  display: flex;
+  flex-direction: row;
+  background-color: #f4f3f3;
+  margin: -65px 0 0 80px;
+}
+
+.containerProducts {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  overflow-y: auto;
+}
+
+.moreElements {
+  width: 350px;
+  height: 300px;
+  background-color: #123b82;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cross {
+  font-size: 60px;
+  color: white;
+  margin-top: 30px;
+}
+
+.moreProducts {
+  width: 220px;
+  height: 25px;
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
+}
+
+.buttonMoreProducts {
+  width: 90px;
+  padding: 8px;
+  margin-top: 20px;
+  background-color: #ebebeb;
+  color: #123b82;
+  border-radius: 26px;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.buttonMoreProducts:hover {
+  background-color: #ebebeb;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 450px) {
+  .containerAll {
+    margin: -210px 0 30px 0;
+    height: 300px;
+  }
+}

@@ -1,0 +1,83 @@
+.background {
+  width: 100%;
+  height: 423px;
+  background-image: url("../../assets/1440-frenchdays-septembre-20_2022-02-01/1440-frenchdays-septembre-20.png");
+}
+
+.titleSelection {
+  font-size: 30px;
+  color: #d8d8d8;
+  display: inline-block;
+}
+
+.groupItems {
+  margin: 124px 0 0 160px;
+}
+
+#exclusivity {
+  width: 104px;
+  margin-top: 8px;
+  padding: 2px;
+  background-color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  color: #18406d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.roosterLeft {
+  width: 200px;
+  height: 200px;
+  margin-left: 30%;
+  image-orientation: flip;
+  margin-top: -100px;
+  transform: scaleX(-1);
+}
+
+.roosterRight {
+  width: 200px;
+  height: 200px;
+  margin-left: 60%;
+  image-orientation: flip;
+  margin-top: -100px;
+}
+
+.buttonBanner {
+  width: 90px;
+  margin: 34px 49px 0 0;
+  padding: 8px 0 8px 0;
+  border-radius: 26px;
+  color: white;
+  border: solid 1px white;
+  text-align: center;
+  font-size: 11px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.buttonBanner:hover {
+  background-color: #ebebeb;
+}
+
+@media screen and (max-width: 450px) {
+  .groupItems {
+    margin: 20px 0 0 20px;
+  }
+
+  .roosterLeft {
+    width: 150px;
+    height: 150px;
+    margin-top: -86px;
+  }
+
+  .roosterRight {
+    width: 150px;
+    height: 150px;
+    margin-top: -86px;
+  }
+
+  .titleSelection {
+    font-size: 25px;
+  }
+}

@@ -1,0 +1,39 @@
+.menu {
+  height: 25px;
+  margin: 1px 0 0;
+  padding: 18px 0 18px 0;
+  background-color: #f4f3f3;
+}
+
+.modifyMenu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f3f3;
+}
+.categorie {
+  width: 94px;
+  height: 22px;
+  margin: 0 80px 0 0;
+  font-size: 13px;
+  color: #000;
+  float: left;
+}
+
+.redirection {
+  text-decoration: none;
+  color: black;
+}
+
+@media screen and (max-width: 450px) {
+  .menu {
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    text-align: center;
+    padding: 10px;
+  }
+  .categorie {
+    margin: 0;
+  }
+}

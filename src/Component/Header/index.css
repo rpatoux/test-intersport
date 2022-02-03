@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+  font-family: "Open Sans";
+  font-size: "12px";
+}
+
+.containerHeader {
+  width: 100%;
+  height: 423px;
+  background-image: url("../../assets/1440-frenchdays-septembre-20_2022-02-01/1440-frenchdays-septembre-20.png");
+}
+
+.rooster {
+  width: 420px;
+  height: 420px;
+  padding: 0 78px 32px 112px;
+  object-fit: contain;
+  float: left;
+  margin-left: 150px;
+}
+
+.dateFrom {
+  width: 600px;
+  height: 49px;
+  margin: 130px 16px 20px 15px;
+  font-size: 36px;
+  color: #d8d8d8;
+  display: inline-block;
+}
+
+.spanFrom {
+  width: 200px;
+  height: 24px;
+  margin: 0 130px 29px;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.19px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+}
+
+@media screen and (max-width: 450px) {
+  .rooster {
+    width: 70%;
+    height: 55%;
+    padding: 0 0 0 0;
+    margin-left: 0;
+  }
+  .containerHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .dateFrom {
+    width: 100%;
+    height: 49px;
+    margin: 0 0 0 0;
+    font-size: 25px;
+  }
+  .spanFrom {
+    font-size: 15px;
+    margin: 0;
+  }
+}

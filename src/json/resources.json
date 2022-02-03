@@ -1,0 +1,323 @@
+{
+    "electronics": [
+      {
+        "id" : 1,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"99",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 2,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"70",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 3,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"50",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 4,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"30",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 5,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 6,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 7,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      }
+
+    ],
+    
+    "man": [
+      {
+        "id" : 1,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 2,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 3,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 4,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 5,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 6,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 7,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      }
+
+    ],
+    "children": [
+      {
+        "id" : 1,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 2,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 3,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 4,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 5,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 6,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 7,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      }
+
+    ],
+    "woman": [
+      {
+        "id" : 1,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 2,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 3,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 4,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 5,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 6,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      },
+      {
+        "id" : 7,
+        "name": "Nom Produit",
+        "brand": "Marque",
+        "kind": "Genre",
+        "oldprice":"109,99",
+        "newprice":"60",
+        "promoProduct":"promo",
+        "percentPromoProduct":"50"
+
+      }
+
+    ]
+  }
